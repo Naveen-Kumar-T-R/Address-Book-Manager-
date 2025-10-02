@@ -26,6 +26,4 @@ It’s a lightweight application designed to demonstrate basic *file handling, s
 
 ---
 
-## Installation / Setup
-1. Clone the repository:  
-```bashgit clone https://github.com/username/address-book.git 
+
